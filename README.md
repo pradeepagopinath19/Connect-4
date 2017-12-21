@@ -1,1 +1,1 @@
-# FTS project
+Connect Four using AI techniques
